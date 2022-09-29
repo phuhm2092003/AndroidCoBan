@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bgr_adapter"
+        android:padding="16dp"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:id="@+id/tvIdClass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="16dp"
+            android:text="ID Class"
+            android:textColor="@color/color_btn_text"
+            android:textSize="16sp"
+            app:drawableStartCompat="@drawable/ic_id"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/tvNameClass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvIdClass"
+            android:drawablePadding="16dp"
+            android:text="Name Class"
+            android:textColor="@color/color_btn_text"
+            android:textSize="16sp"
+            app:drawableStartCompat="@drawable/ic_class"
+            tools:ignore="HardcodedText" />
+
+    </RelativeLayout>
+</LinearLayout>

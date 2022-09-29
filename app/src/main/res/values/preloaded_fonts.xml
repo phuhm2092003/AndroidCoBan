@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/abhaya_libre</item>
+        <item>@font/abhaya_libre2</item>
+        <item>@font/abhaya_libre_bold</item>
+        <item>@font/abril_fatface</item>
+        <item>@font/aclonica</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/arbutus</item>
+        <item>@font/arizonia</item>
+        <item>@font/audiowide</item>
+        <item>@font/be_vietnam_light</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/calistoga</item>
+        <item>@font/carter_one</item>
+        <item>@font/faster_one</item>
+        <item>@font/lily_script_one</item>
+        <item>@font/sarina</item>
+    </array>
+</resources>

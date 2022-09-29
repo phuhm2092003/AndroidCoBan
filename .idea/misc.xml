@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.246" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/bgr_adapter.xml" value="0.2565" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/bgr_btn_login.xml" value="0.246" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/bgr_edt_login.xml" value="0.246" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/bgr_main.xml" value="0.246" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/bgr_spiner.xml" value="0.257" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_add.xml" value="0.363" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.257" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_birthday.xml" value="0.257" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_class.xml" value="0.2565" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_down_spiner.xml" value="0.257" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_id.xml" value="0.2565" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_list.xml" value="0.363" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_loginic.xml" value="0.246" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_logo1.xml" value="0.246" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_logo2.xml" value="0.246" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_management.xml" value="0.363" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_name.xml" value="0.257" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_pas.xml" value="0.246" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/drawable/ic_user.xml" value="0.246" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/layout/activity_class_list.xml" value="0.3625" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/layout/activity_student_management.xml" value="0.3625" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/layout/activity_welcome.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/layout/layout_adapter_classes.xml" value="0.3484375" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/layout/layout_adapter_spinner.xml" value="0.3625" />
+        <entry key="..\:/AndroidBasic/ASM/appASM/app/src/main/res/layout/layout_dialog_add_class.xml" value="0.3484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
